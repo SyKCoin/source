@@ -1,0 +1,6 @@
+usr/local/bin/sykcoin-qt usr/bin
+share/pixmaps/sykcoin32.xpm usr/share/pixmaps
+share/pixmaps/sykcoin16.xpm usr/share/pixmaps
+share/pixmaps/sykcoin128.png usr/share/pixmaps
+debian/sykcoin-qt.desktop usr/share/applications
+debian/sykcoin-qt.protocol usr/share/kde4/services/

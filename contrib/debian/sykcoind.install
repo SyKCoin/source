@@ -1,0 +1,3 @@
+usr/local/bin/sykcoind usr/bin
+usr/local/bin/sykcoin-cli usr/bin
+debian/examples/sykcoin.conf etc/sykcoin
