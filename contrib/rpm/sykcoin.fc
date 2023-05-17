@@ -1,8 +1,0 @@
-/usr/bin/sykcoin-cli		--	gen_context(system_u:object_r:sykcoin_exec_t,s0)
-/usr/sbin/sykcoind		--	gen_context(system_u:object_r:sykcoin_exec_t,s0)
-/usr/lib(64)?/sykcoin/sykcoind		--	gen_context(system_u:object_r:sykcoin_exec_t,s0)
-
-/etc/sykcoin(/.*)?		gen_context(system_u:object_r:sykcoin_conf_t,s0)
-/var/lib/sykcoin(/.*)?		gen_context(system_u:object_r:sykcoin_var_lib_t,s0)
-
-(/var)?/run/sykcoind(/.*)?   gen_context(system_u:object_r:sykcoin_var_run_t,s0)
