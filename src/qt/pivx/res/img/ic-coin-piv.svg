@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   x="0px"
+   y="0px"
+   viewBox="0 0 24 24"
+   style="enable-background:new 0 0 24 24;"
+   xml:space="preserve"
+   sodipodi:docname="ic-coin-piv.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs22" /><sodipodi:namedview
+   id="namedview20"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="9.8333333"
+   inkscape:cx="-9.1525424"
+   inkscape:cy="12"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Top-BarTheme-Copy" />
+<style
+   type="text/css"
+   id="style13">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;stroke:#577a4e;stroke-width:1.5154;}
+</style>
+<desc
+   id="desc4">Created with Sketch.</desc>
+<g
+   id="Top-BarTheme-Copy">
+	<circle
+   id="Oval"
+   class="st0"
+   cx="12"
+   cy="12"
+   r="12"
+   style="fill:#2c4367;fill-opacity:1" /><ellipse
+   id="Oval-7"
+   class="st0"
+   cx="12"
+   cy="11.949152"
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.874936"
+   rx="10.372881"
+   ry="10.627119" />
+	
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Allerta Stencil';-inkscape-font-specification:'Allerta Stencil';letter-spacing:0px;word-spacing:0px;fill:#70757d;fill-opacity:1"
+   x="5.6949153"
+   y="19.627119"
+   id="text1078"><tspan
+     sodipodi:role="line"
+     id="tspan1076"
+     x="5.6949153"
+     y="19.627119">S</tspan></text></g>
+</svg>

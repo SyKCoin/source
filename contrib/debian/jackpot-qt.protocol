@@ -1,0 +1,11 @@
+[Protocol]
+exec=syk-qt '%u'
+protocol=syk
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

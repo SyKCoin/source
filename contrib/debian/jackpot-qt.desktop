@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=syk 
+Comment=syk P2P Cryptocurrency
+Comment[fr]=syk, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=syk, eşten eşe kriptografik sanal para birimi
+Exec=syk-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/syk;
+Categories=Office;Finance;
+StartupWMClass=syk-qt
